@@ -1,4 +1,3 @@
 *.pas linguist-language=Pascal
 *.pas linguist-detectable
 master/*.pas linguist-language=Pascal
-master/* linguist-vendored
