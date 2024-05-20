@@ -1,2 +1,2 @@
 # UCP
-Códigos de quando cursava a UCP
+Minha linguagem principal da aprendizadp, época da UCP
