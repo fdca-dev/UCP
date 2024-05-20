@@ -1,3 +1,4 @@
-*.pas linguist-language=pascal
-*.md linguist-language=pascal
+*.pas linguist-language=Pascal
+*.md linguist-language=Pascal
 *.pas linguist-detectable
+UCP/master/*.pas linguist-language=Pascal
