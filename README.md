@@ -1,2 +1,2 @@
 # UCP
-Minha linguagem principal da aprendizadp, época da UCP
+Minha linguagem principal da aprendizado, época da UCP
